@@ -1,0 +1,4 @@
+name: BedParkour
+main: nl.sverben.BedParkour
+version: "1.0"
+api-version: "1.17"
